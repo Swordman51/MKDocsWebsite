@@ -7,7 +7,30 @@ theme:
     - toc.integrate
     - navigation.top
     - search.suggest
-    - search.highligh
+    - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle: 
+        icon: material/toggle-switch-off-outline
+        name: switch to dark mode
+      primary: teal
+      accent: purple
+    - scheme: slate
+      toggle: 
+        icon: material/toggle-switch
+        name: switch to light mode
+      primary: teal
+      accent: lime
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      name: My Github
+      link: https://github.com/Swordman51/
+
+copyright: 
+     2023 &copy; <a href="https://github.com/Swordman51" target="_blank" rel="noopener">Zandy Zhao</a>
