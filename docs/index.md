@@ -1,21 +1,11 @@
-# Welcome to MkDocs
+# Zandy Zhao
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to my Website
 
-## Commands
+## About Me
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* I love coding and playing Warhammer
+* Senior at [Union County Magnet High School](https://www.ucvts.org/site/Default.aspx?PageID=481)
 
 
-Balling?????
 Swordman51's personal website
