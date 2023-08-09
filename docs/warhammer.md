@@ -1,8 +1,8 @@
 
 
-<a>I'm a big fan of Warhammer
+I'm a big fan of Warhammer
 
-I own an Ultramarines Army and a small guard army</a>
+I own an Ultramarines Army and a small guard army
 
 
 ### Unpainted Models
